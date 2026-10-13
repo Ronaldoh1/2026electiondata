@@ -1,0 +1,11 @@
+░▒▓    ~/De/2026elections  ls /opt/homebrew/bin/python3 /usr/local/bin/python3
+ls: /opt/homebrew/bin/python3: No such file or directory
+ls: /usr/local/bin/python3: No such file or directory
+░▒▓    ~/De/2026elections    sudo xcode-select --reset
+  python3 --version
+Password:
+Python 3.9.6
+░▒▓    ~/De/2026elections  mv ~/Downloads/ots_records_pull.py ~/Desktop/2026elections/
+head -3 ~/Desktop/2026elections/ots_records_pull.py
+mv: /Users/ron/Downloads/ots_records_pull.py: No such file or directory
+     pbpaste > ~/Desktop/2026elections/ots_records_pull.py%
